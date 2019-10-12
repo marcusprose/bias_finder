@@ -1,0 +1,15 @@
+Federal subsidies for electric vehicles are an income transfer to the affluent, and now comes news that significant numbers don’t qualify. The Treasury Inspector General for Tax Administration (Tigta) in late September reported that the feds handed out nearly $74 million to undeserving EV owners from 2014 through 2018.
+
+“The [Internal Revenue Service] does not have effective processes to identify and prevent erroneous claims,” said Tigta, meaning filers are applying for credits largely on an honor system. Between confusion over how the credits work and outright fraud, the government is getting fleeced.
+
+Tigta says that of the 239,422 EV credits claimed and received during 2014-2018, it identified 16,510 as potentially erroneous. The numbers could be higher since Tigta used samples of filers who claimed the credit. A significant portion of the Tigta report is redacted for what it calls “law enforcement” reasons, suggesting the feds are either investigating some of this for fraud, or trying to discourage other EV owners from exploiting the system.
+
+But it appears many credits are going to owners of vehicle models that don’t meet requirements under the law; to secondary owners (only “original” owners may claim the credit); and to drivers who are leasing vehicles (only the leasing entity may claim). The Tigta evidence also suggests many owners may not understand—or are ignoring—the phaseout of credits under the law, and claiming the credit above the allowed threshold per company.
+
+Tigta’s audit comes as auto makers lobby Congress to expand the EV tax credit. The feds currently provide a $7,500 consumer tax break for an auto maker’s first 200,000 cars. The tax credit then drops by half for EVs sold over the next six months, and by half again for another six months. Then it goes away.
+
+Tesla and General Motors have hit the 200,000 mark, while others are drawing close. Despite promising that this subsidy would be temporary, auto special pleaders want Congress to double to 400,000 the number of vehicles eligible for credits. They are eyeing a new House energy tax subsidy package as their ride to expansion.
+
+Government data show the EV subsidy mostly benefits the well-to-do. Electric cars are substantially more expensive than average vehicles. A Congressional Research Service study found that almost 80% of the credits were claimed by households with adjusted gross income of more than $100,000. About half of all sales are in California.
+
+Tigta recommends, among other things, that the IRS use Vehicle Identification Number (VIN) data to find errors—which, incredibly, the agency isn’t already doing. A better plan is to let the program expire. Washington has been subsidizing EVs for nearly 30 years, and it’s no longer an infant industry. If all good things must come to an end, the fraud can too.
